@@ -1,0 +1,43 @@
+('C:\\Users\\Grennon\\PycharmProjects\\Speedy Shopper Final\\build\\Speedy '
+ 'Shopper\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Grennon\\PycharmProjects\\Speedy Shopper Final\\build\\Speedy '
+   'Shopper\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Grennon\\AppData\\Local\\Programs\\Python\\Python37\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'c:\\users\\grennon\\pycharmprojects\\speedy shopper '
+   'final\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'c:\\users\\grennon\\pycharmprojects\\speedy shopper '
+   'final\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'c:\\users\\grennon\\pycharmprojects\\speedy shopper '
+   'final\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\grennon\\pycharmprojects\\speedy shopper '
+   'final\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('ssvo',
+   'C:\\Users\\Grennon\\PycharmProjects\\Speedy Shopper Final\\ssvo.py',
+   'PYSOURCE'),
+  ('Speedy Shopper.exe.manifest',
+   'C:\\Users\\Grennon\\PycharmProjects\\Speedy Shopper Final\\build\\Speedy '
+   'Shopper\\Speedy Shopper.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False,
+ [])
